@@ -1,0 +1,9 @@
+[project]
+  ignore = .git
+
+[cxx]
+  should_remap_host_platform = true
+
+[repositories]
+  jedisct1.libsodium = buckaroo/official/jedisct1/libsodium
+

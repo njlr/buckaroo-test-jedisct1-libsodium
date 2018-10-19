@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-jedisct1-libsodium",
+  "dependencies": {
+    "jedisct1/libsodium": "1.0.16"
+  }
+}
